@@ -4,6 +4,8 @@ SMK Advent Batam Website is a web-based information system developed to serve as
 
 Through this website, users can access information about the school's profile, study programs, facilities, school activities, photo galleries, and admission procedures. In addition, the website helps improve the quality of information services and supports digital transformation within the educational environment. This project was developed with a focus on usability, responsive design, and accessibility across various devices.
 
+---
+
 📸 Website Preview
 ![SMK Advent Batam Preview](SMK.png)
 
@@ -11,6 +13,8 @@ Through this website, users can access information about the school's profile, s
 - Backend : PHP
 - Database : MySQL
 - Tools : Visual Studio Code, XAMPP
+
+---
 
 🚀 How to Run the Project
 
