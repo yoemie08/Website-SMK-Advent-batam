@@ -1,4 +1,6 @@
-Company Profile SMK Advent Batam
+**Company Profile SMK Advent Batam
+**
+---
 
 SMK Advent Batam Website is a web-based information system developed to serve as the school's official information and promotional platform while supporting the online student admission process. The website is designed to provide students, parents, and the public with quick and convenient access to school-related information.
 
@@ -8,6 +10,10 @@ Through this website, users can access information about the school's profile, s
 
 📸 Website Preview
 ![SMK Advent Batam Preview](SMK.png)
+
+---
+
+🛠️ Tech Stack
 
 - Frontend : HTML5, CSS3, JavaScript, Bootstrap
 - Backend : PHP
